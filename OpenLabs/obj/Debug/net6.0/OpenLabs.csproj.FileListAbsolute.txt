@@ -1,0 +1,15 @@
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\bin\Debug\net6.0\OpenLabs.exe
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\bin\Debug\net6.0\OpenLabs.deps.json
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\bin\Debug\net6.0\OpenLabs.runtimeconfig.json
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\bin\Debug\net6.0\OpenLabs.dll
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\bin\Debug\net6.0\OpenLabs.pdb
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.csproj.AssemblyReference.cache
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.AssemblyInfoInputs.cache
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.AssemblyInfo.cs
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.csproj.CoreCompileInputs.cache
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.dll
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\refint\OpenLabs.dll
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.pdb
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\OpenLabs.genruntimeconfig.cache
+C:\Users\ganku\Desktop\Teste\OpenLabs\OpenLabs\obj\Debug\net6.0\ref\OpenLabs.dll
